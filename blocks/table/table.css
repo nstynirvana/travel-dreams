@@ -1,0 +1,24 @@
+.table {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding-top: 118px;
+  gap: 5%;
+
+}
+
+@media screen and (max-width: 769px) {
+  .table {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 48px 24px;
+    padding-top: 100px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .table {
+    grid-template-columns: 1fr;
+    gap: 48px;
+    padding-top: 80px;
+  }
+}

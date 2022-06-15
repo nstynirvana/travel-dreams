@@ -1,0 +1,10 @@
+.people{
+  /* max-width: 1024px; */
+  display: flex;
+  flex-direction: column;
+  padding-top: 137px;
+  padding-bottom: 122px;
+  margin: auto;
+  padding-left: calc(68/1280*100%);
+  padding-right: calc(68/1280*100%);
+}

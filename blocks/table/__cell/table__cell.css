@@ -1,0 +1,5 @@
+.table__cell{
+    display: flex;
+    flex-direction: column;
+    max-width: 232px;
+}
