@@ -1,0 +1,10 @@
+.intro__subtitle {
+    padding: 0;
+    margin: 0 auto 120px;
+    font-family: 'Minion Pro', "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    color: #000000;
+}

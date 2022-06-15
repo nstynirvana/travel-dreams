@@ -1,10 +1,11 @@
-.header__complain {
+.place__paragraph {
     font-family: 'Minion Pro', "Arial", sans-serif;
     font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
+    font-weight: 400;
+    font-size: 15px;
     line-height: 18px;
     color: #000000;
     margin: 0;
-    text-decoration: none;
+    margin-bottom: 30px;
+    width: 365px;
 }
