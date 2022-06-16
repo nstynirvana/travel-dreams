@@ -1,13 +1,13 @@
 .place__paragraph {
     font-family: 'Pragmatica', "Arial", sans-serif;
     font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.5;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 1.58;
     color: #000000;
     margin: 0;
     margin-bottom: 20px;
-    /* width: 365px; */
+    max-width: 371px;
 }
 
 .place__paragraph:last-child{
