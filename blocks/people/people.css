@@ -1,4 +1,4 @@
-.people{
+.people {
   /* max-width: 1024px; */
   display: flex;
   flex-direction: column;
@@ -7,4 +7,11 @@
   margin: auto;
   padding-left: calc(68/1280*100%);
   padding-right: calc(68/1280*100%);
+}
+
+
+@media screen and (max-width: 320px) {
+  .people {
+    padding-top: 48px;
+  }
 }

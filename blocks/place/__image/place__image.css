@@ -16,5 +16,6 @@
     .place__image {
         width: 384px;
         height: 300px;
+        grid-area: place__image;
     }
 }

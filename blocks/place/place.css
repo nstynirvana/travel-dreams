@@ -5,8 +5,18 @@
   gap: 0;
 }
 
+/* @media screen and (max-width: 320px) {
+  .place {
+    
+  }
+} */
+
 @media screen and (max-width: 320px) {
   .place {
+    grid-template-areas: "place__text""place__image";
     grid-template-columns: repeat(1, 1fr);
+    margin-top: 48px;
+    gap: 28px;
+
   }
 }
