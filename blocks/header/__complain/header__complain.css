@@ -8,7 +8,7 @@
     text-decoration: none;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 568px) {
     .header__complain {
         font-size: 10px;
     }

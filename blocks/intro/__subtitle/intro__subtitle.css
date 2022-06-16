@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 568px) {
     .intro__subtitle {
         font-size: 18px;
         margin: 0 16px 20px;

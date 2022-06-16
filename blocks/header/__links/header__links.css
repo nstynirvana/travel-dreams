@@ -1,4 +1,13 @@
 .header__links {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 568px) {
+    .header__links {
+        width: 180px;
+    }
 }
