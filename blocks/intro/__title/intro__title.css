@@ -9,7 +9,7 @@
     text-transform: uppercase;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 984px) {
     .intro__title {
         font-size: 10px;
         margin: 60px 0 25px;

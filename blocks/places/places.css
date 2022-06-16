@@ -3,7 +3,7 @@
     background-color: #f2f2f2;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 984px) {
     .places {
         margin-top: 100px;
     }
