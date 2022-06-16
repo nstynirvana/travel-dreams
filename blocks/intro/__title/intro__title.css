@@ -1,11 +1,10 @@
 .intro__title {
-    margin: 120px 0 36px;
+    margin: 120px 0 30px;
     color: #fecda7;
-    font-family: 'Minion Pro', "Arial", sans-serif;
+    font-family: 'Pragmatica', "Arial", sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 16px;
-    letter-spacing: 1.5px;
+    font-size: 13px;
+    letter-spacing: 1px;
     text-transform: uppercase;
 }

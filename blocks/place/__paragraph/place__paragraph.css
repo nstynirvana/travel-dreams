@@ -1,11 +1,11 @@
 .place__paragraph {
-    font-family: 'Minion Pro', "Arial", sans-serif;
+    font-family: 'Pragmatica', "Arial", sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 14px;
+    line-height: 1.5;
     color: #000000;
     margin: 0;
-    margin-bottom: 30px;
+    margin-bottom: 28px;
     width: 365px;
 }

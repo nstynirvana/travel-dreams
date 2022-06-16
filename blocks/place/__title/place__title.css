@@ -1,11 +1,8 @@
 .place__title {
-    font-family: 'Minion Pro', "Arial", sans-serif;
+    font-family: 'Pragmatica', "Arial", sans-serif;
     font-style: normal;
     font-weight: 900;
-    font-size: 35px;
-    line-height: 38px;
+    font-size: 30px;
     color: #000000;
     margin: 0;
-    margin-bottom: 180px;
-
 }

@@ -1,5 +1,7 @@
 .header {
     display: flex;
     justify-content: space-between;
-    margin: 60px 60px 0;
+    margin-left: calc(68/1280*100%);
+    margin-right: calc(68/1280*100%);
+    margin-top: 55px;
 }

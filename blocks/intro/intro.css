@@ -1,4 +1,6 @@
 .intro {
     display: flex;
-    margin: 90px 60px 0;
+    margin-left: calc(68/1280*100%);
+    margin-right: calc(68/1280*100%);
+    margin-top: 90px;
 }
