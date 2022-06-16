@@ -5,17 +5,23 @@
     object-fit: cover;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1140px) {
     .place__image {
         width: 512px;
         height: 400px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 984px) {
     .place__image {
         width: 384px;
         height: 300px;
         grid-area: place__image;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .place__image {
+        margin: 0 auto;
     }
 }

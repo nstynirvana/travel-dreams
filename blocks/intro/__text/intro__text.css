@@ -2,8 +2,26 @@
    max-width: 580px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1020px) {
+   .intro__text {
+      max-width: 550px;
+   }
+}
+
+@media screen and (max-width: 984px) {
    .intro__text {
       max-width: 400px;
+   }
+}
+
+@media screen and (max-width: 716px) {
+   .intro__text {
+      max-width: 300px;
+   }
+}
+
+@media screen and (max-width: 640px) {
+   .intro__text {
+      max-width: 250px;
    }
 }

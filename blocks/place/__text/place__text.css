@@ -2,19 +2,19 @@
     margin: 68px 188px 0 68px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1140px) {
     .place__text {
         margin-right: 80px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 984px) {
     .place__text {
         margin: 48px 68px 0 48px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 568px) {
     .place__text {
         margin: 0 48px 0 16px;
         min-height: 100px;

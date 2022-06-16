@@ -2,19 +2,19 @@
     margin-bottom: 230px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1140px) {
     .place__title_montain {
         margin-bottom: 150px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 984px) {
     .place__title_montain {
         margin-bottom: 90px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 568px) {
     .place__title_montain {
         margin-bottom: 20px;
     }

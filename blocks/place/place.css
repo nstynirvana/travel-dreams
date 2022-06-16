@@ -11,7 +11,7 @@
   }
 } */
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 568px) {
   .place {
     grid-template-areas: "place__text""place__image";
     grid-template-columns: repeat(1, 1fr);
