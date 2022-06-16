@@ -1,7 +1,17 @@
 .header {
     display: flex;
     justify-content: space-between;
-    margin-left: calc(68/1280*100%);
-    margin-right: calc(68/1280*100%);
-    margin-top: 55px;
+    margin: 55px 68px 0;
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        margin: 48px 48px 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header {
+        margin: 16px 16px 0;
+    }
 }

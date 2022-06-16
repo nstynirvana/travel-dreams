@@ -6,6 +6,18 @@
     line-height: 1.5;
     color: #000000;
     margin: 0;
-    margin-bottom: 28px;
-    width: 365px;
+    margin-bottom: 20px;
+    /* width: 365px; */
 }
+
+.place__paragraph:last-child{
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .place__paragraph {
+        font-size: 10px;
+    }
+}
+
+

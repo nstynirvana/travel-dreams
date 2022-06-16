@@ -4,3 +4,9 @@
   width: 100%;
   gap: 0;
 }
+
+@media screen and (max-width: 320px) {
+  .place {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

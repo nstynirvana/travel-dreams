@@ -1,3 +1,21 @@
 .place__title_montain {
     margin-bottom: 230px;
 }
+
+@media screen and (max-width: 1024px) {
+    .place__title_montain {
+        margin-bottom: 150px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__title_montain {
+        margin-bottom: 90px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__title_montain {
+        margin-bottom: 130px;
+    }
+}

@@ -6,3 +6,15 @@
     color: #000000;
     margin: 0;
 }
+
+@media screen and (max-width: 768px) {
+    .place__title {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__title {
+        font-size: 18px;
+    }
+}

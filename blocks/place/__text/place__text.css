@@ -1,4 +1,22 @@
 .place__text {
-    margin-top: 68px;
-    margin-left: 68px;
+    margin: 68px 188px 0 68px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__text {
+        margin-right: 80px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__text {
+        margin: 48px 68px 0 48px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__text {
+        margin: 16px 48px 0 16px;
+        min-height: 300px;
+    }
 }

@@ -5,3 +5,24 @@
     object-fit: cover;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+    .intro__image {
+        width: 300px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intro__image {
+        width: 220px;
+        height: 220px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .intro__image {
+        width: 320px;
+        height: 320px;
+    }
+}

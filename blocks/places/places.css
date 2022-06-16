@@ -2,3 +2,15 @@
     margin: 140px 0 0;
     background-color: #f2f2f2;
 }
+
+@media screen and (max-width: 768px) {
+    .places {
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places {
+        margin: 0;
+    }
+}

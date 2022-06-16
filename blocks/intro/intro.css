@@ -1,6 +1,19 @@
 .intro {
     display: flex;
-    margin-left: calc(68/1280*100%);
-    margin-right: calc(68/1280*100%);
-    margin-top: 90px;
+    margin: 90px 68px 0;
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .intro {
+        margin: 0;
+        margin-top: 60px;
+        flex-wrap: wrap;
+    }
 }
