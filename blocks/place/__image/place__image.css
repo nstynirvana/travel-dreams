@@ -26,9 +26,16 @@
     }
 }
 
+@media screen and (max-width: 568px) {
+    .place__image {
+        height: 284px;  
+    }
+}
+
 @media screen and (max-width: 446px) {
     .place__image {
         grid-area: place__image;
+        height: ;
         margin: 0 auto;
     }
 }

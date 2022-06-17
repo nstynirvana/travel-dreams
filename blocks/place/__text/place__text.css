@@ -20,7 +20,7 @@
 
 @media screen and (max-width: 446px) {
     .place__text {
-        margin: 0 48px 0 16px;
+        margin: 16px 126px 16px 16px;
         min-height: 100px;
         grid-area: place__text;
     }

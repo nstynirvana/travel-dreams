@@ -2,15 +2,27 @@
    max-width: 580px;
 }
 
-@media screen and (max-width: 1020px) {
+@media screen and (max-width: 1075px) {
    .intro__text {
       max-width: 550px;
+   }
+}
+
+@media screen and (max-width: 1035px) {
+   .intro__text {
+      max-width: 450px;
    }
 }
 
 @media screen and (max-width: 984px) {
    .intro__text {
       max-width: 400px;
+   }
+}
+
+@media screen and (max-width: 755px) {
+   .intro__text {
+      max-width: 350px;
    }
 }
 
@@ -25,3 +37,10 @@
       max-width: 250px;
    }
 }
+
+@media screen and (max-width: 568px) {
+   .intro__text {
+      max-width: 320px;
+   }
+}
+
