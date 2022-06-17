@@ -1,16 +1,19 @@
 .places {
-    margin: 140px 0 0;
+    display: grid;
+    gap: 0;
+    padding-top: 132px;
     background-color: #f2f2f2;
 }
 
 @media screen and (max-width: 984px) {
     .places {
-        margin-top: 100px;
+        padding-top: 100px;
     }
 }
 
 @media screen and (max-width: 568px) {
     .places {
-        margin-top: 48px;
+        padding-top: 48px;
+        gap:16px;
     }
 }

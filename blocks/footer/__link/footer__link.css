@@ -1,9 +1,40 @@
 .footer__link {
   text-decoration: none;
   color: #000000;
+  font-size: 34px;
+  font-weight: 700;
+  margin-left: 10px;
 }
 
 .footer__link:hover {
   opacity: 0.8;
   transition: 0.5s;
+}
+
+@media screen and (max-width: 984px) {
+  .footer__link {
+    font-size: 30px;
+
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .footer__link {
+    font-size: 30px;
+    
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .footer__link {
+    font-size: 26px;
+    
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__link {
+    font-size: 22px;
+    
+  }
 }

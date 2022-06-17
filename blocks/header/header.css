@@ -1,17 +1,23 @@
 .header {
     display: flex;
     justify-content: space-between;
-    margin: 51px 68px 0;
+    /* margin: 51px 68px 0; */
+    padding-top: 51px;
+    padding-left: calc(68/1280*100%);
+    padding-right: calc(68/1280*100%);
 }
 
 @media screen and (max-width: 984px) {
     .header {
-        margin: 48px 48px 0;
+        padding-top: 48px;
+        /* margin: 48px 48px 0; */
     }
 }
 
 @media screen and (max-width: 568px) {
     .header {
-        margin: 16px 16px 0;
+        /* margin: 16px 16px 0; */
+        padding-top: 48px;
+
     }
 }

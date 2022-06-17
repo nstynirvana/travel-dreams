@@ -2,7 +2,7 @@
   width: 100%;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  padding-top: 118px;
+  padding-top: 114px;
   gap: 5%;
 
 }

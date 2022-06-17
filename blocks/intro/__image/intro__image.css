@@ -1,10 +1,10 @@
 .intro__image {
-    width: 360px;
-    height: 360px;
+    width: 356px;
+    height: 357px;
     max-width: 100%;
     max-height: 100%;
     object-fit: cover;
-    margin: 0 auto;
+    /* margin: 0 84px 0 0; */
 }
 
 @media screen and (max-width: 1140px) {
